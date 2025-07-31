@@ -122,6 +122,11 @@ merge(
         'View Gallery': '浏览图库',
         'Get Me Outta Here': '带我离开这里',
         'Never Warn Me Again': '不再提醒',
+
+        'This content is not available in the United Kingdom': '此内容在英国不可用',
+        'due to instrusive and privacy-invasive mandatory age verification legally required by the': '由于侵入性和侵害隐私的强制年龄验证被',
+        'Online Satety Act': '在线安全法案 (Online Safety Act) 所要求',
+        'Click here to complain about this block (seriously)': '点击此处投诉此封锁（认真地）',
     },
     [
         [/^(\d+) times$/, '$1 次'],
